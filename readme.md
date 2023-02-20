@@ -1,2 +1,2 @@
 # Uniswap Triangular Arbitrage Python
-- Refer to this for more information [poloniex triangular arbitrage](https://github.com/chickensmitten/poloniex-triangular-arbitrage)
+- The code is similar to [poloniex triangular arbitrage](https://github.com/chickensmitten/poloniex-triangular-arbitrage). Refer to it for more information
