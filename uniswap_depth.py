@@ -2,7 +2,7 @@ import json
 from web3 import Web3
 
 # Load Web3
-w3 = Web3(Web3.HTTPProvider("https://mainnet.infura.io/v3/1f5ae6ccd8324bbdbb9b70972964f527"))
+w3 = Web3(Web3.HTTPProvider("https://mainnet.infura.io/v3/<ENDPOINTS>"))
 
 # Load ABI
 with open("UniswapABI.json", "r") as json_obj:
